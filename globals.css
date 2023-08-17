@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .testimag1{
+        background-image: url('https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg');
+        background-size: cover;
+      }
+    
+      .testimag2{
+        background-image: url('https://imgv3.fotor.com/images/blog-cover-image/part-blurry-image.jpg');
+        background-size: cover;
+      }
+}
